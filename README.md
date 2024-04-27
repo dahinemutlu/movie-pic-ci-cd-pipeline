@@ -15,7 +15,3 @@ This project aims to design and implement CI/CD pipelines using GitHub Actions t
 - Create GitHub Actions workflows so that the pipeline deploys the frontend and backend apps to the Kubernetes cluster.
 
 > Please refer to [Project Implementation Report](<./Project Implementation Report.pdf>) for detailed steps.
-
-## License
-
-[License](LICENSE.md)
